@@ -1,0 +1,274 @@
+﻿{
+    "resource": [
+      {
+        "Station": "七張站",
+        "Destination": "松山站",
+        "UpdateTime": "2019-05-07T21:00:52.993"
+      },
+      {
+        "Station": "士林站",
+        "Destination": "北投站",
+        "UpdateTime": "2019-05-07T21:00:45.62"
+      },
+      {
+        "Station": "大安森林公園站",
+        "Destination": "象山站",
+        "UpdateTime": "2019-05-07T21:00:54.74"
+      },
+      {
+        "Station": "大湖公園站",
+        "Destination": "動物園站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "大橋頭站",
+        "Destination": "南勢角站",
+        "UpdateTime": "2019-05-07T21:00:49.463"
+      },
+      {
+        "Station": "大橋頭站",
+        "Destination": "迴龍站",
+        "UpdateTime": "2019-05-07T21:00:39.27"
+      },
+      {
+        "Station": "中山站",
+        "Destination": "松山站",
+        "UpdateTime": "2019-05-07T21:00:42.52"
+      },
+      {
+        "Station": "中山國小站",
+        "Destination": "南勢角站",
+        "UpdateTime": "2019-05-07T21:00:58.78"
+      },
+      {
+        "Station": "中山國中站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "中正紀念堂站",
+        "Destination": "松山站",
+        "UpdateTime": "2019-05-07T21:01:02.027"
+      },
+      {
+        "Station": "內湖站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "公館站",
+        "Destination": "松山站",
+        "UpdateTime": "2019-05-07T21:00:42.52"
+      },
+      {
+        "Station": "木柵站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "木柵站",
+        "Destination": "動物園站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "古亭站",
+        "Destination": "南勢角站",
+        "UpdateTime": "2019-05-07T21:00:49.463"
+      },
+      {
+        "Station": "台大醫院站",
+        "Destination": "象山站",
+        "UpdateTime": "2019-05-07T21:00:35.05"
+      },
+      {
+        "Station": "台北101/世貿站",
+        "Destination": "象山站",
+        "UpdateTime": "2019-05-07T21:00:45.62"
+      },
+      {
+        "Station": "台北車站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:46.65"
+      },
+      {
+        "Station": "民權西路站",
+        "Destination": "北投站",
+        "UpdateTime": "2019-05-07T21:00:45.62"
+      },
+      {
+        "Station": "民權西路站",
+        "Destination": "象山站",
+        "UpdateTime": "2019-05-07T21:00:35.05"
+      },
+      {
+        "Station": "江子翠站",
+        "Destination": "亞東醫院站",
+        "UpdateTime": "2019-05-07T21:00:56.1"
+      },
+      {
+        "Station": "府中站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:56.1"
+      },
+      {
+        "Station": "忠孝復興站",
+        "Destination": "亞東醫院站",
+        "UpdateTime": "2019-05-07T21:00:56.1"
+      },
+      {
+        "Station": "忠孝復興站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "忠孝復興站",
+        "Destination": "動物園站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "忠孝新生站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:56.1"
+      },
+      {
+        "Station": "昆陽站",
+        "Destination": "頂埔站",
+        "UpdateTime": "2019-05-07T21:00:46.65"
+      },
+      {
+        "Station": "明德站",
+        "Destination": "淡水站",
+        "UpdateTime": "2019-05-07T21:00:35.05"
+      },
+      {
+        "Station": "東門站",
+        "Destination": "南勢角站",
+        "UpdateTime": "2019-05-07T21:00:49.463"
+      },
+      {
+        "Station": "東門站",
+        "Destination": "蘆洲站",
+        "UpdateTime": "2019-05-07T21:01:00.437"
+      },
+      {
+        "Station": "東湖站",
+        "Destination": "動物園站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "板橋站",
+        "Destination": "頂埔站",
+        "UpdateTime": "2019-05-07T21:00:46.65"
+      },
+      {
+        "Station": "松江南京站",
+        "Destination": "南勢角站",
+        "UpdateTime": "2019-05-07T21:00:49.463"
+      },
+      {
+        "Station": "松江南京站",
+        "Destination": "新店站",
+        "UpdateTime": "2019-05-07T21:01:02.027"
+      },
+      {
+        "Station": "信義安和站",
+        "Destination": "淡水站",
+        "UpdateTime": "2019-05-07T21:00:35.05"
+      },
+      {
+        "Station": "南京三民站",
+        "Destination": "松山站",
+        "UpdateTime": "2019-05-07T21:00:52.993"
+      },
+      {
+        "Station": "南京三民站",
+        "Destination": "新店站",
+        "UpdateTime": "2019-05-07T21:00:52.993"
+      },
+      {
+        "Station": "南港展覽館站",
+        "Destination": "亞東醫院站",
+        "UpdateTime": "2019-05-07T21:00:46.65"
+      },
+      {
+        "Station": "南港站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:56.1"
+      },
+      {
+        "Station": "科技大樓站",
+        "Destination": "動物園站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "海山站",
+        "Destination": "頂埔站",
+        "UpdateTime": "2019-05-07T21:00:56.1"
+      },
+      {
+        "Station": "國父紀念館站",
+        "Destination": "頂埔站",
+        "UpdateTime": "2019-05-07T21:00:56.1"
+      },
+      {
+        "Station": "頂溪站",
+        "Destination": "南勢角站",
+        "UpdateTime": "2019-05-07T21:00:39.27"
+      },
+      {
+        "Station": "唭哩岸站",
+        "Destination": "北投站",
+        "UpdateTime": "2019-05-07T21:00:35.05"
+      },
+      {
+        "Station": "景安站",
+        "Destination": "南勢角站",
+        "UpdateTime": "2019-05-07T21:00:58.78"
+      },
+      {
+        "Station": "新埔站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:36.363"
+      },
+      {
+        "Station": "萬隆站",
+        "Destination": "新店站",
+        "UpdateTime": "2019-05-07T21:00:52.993"
+      },
+      {
+        "Station": "葫洲站",
+        "Destination": "南港展覽館站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "輔大站",
+        "Destination": "南勢角站",
+        "UpdateTime": "2019-05-07T21:00:58.78"
+      },
+      {
+        "Station": "輔大站",
+        "Destination": "迴龍站",
+        "UpdateTime": "2019-05-07T21:00:58.78"
+      },
+      {
+        "Station": "劍南路站",
+        "Destination": "動物園站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      },
+      {
+        "Station": "龍山寺站",
+        "Destination": "頂埔站",
+        "UpdateTime": "2019-05-07T21:00:56.1"
+      },
+      {
+        "Station": "關渡站",
+        "Destination": "淡水站",
+        "UpdateTime": "2019-05-07T21:00:45.62"
+      },
+      {
+        "Station": "麟光站",
+        "Destination": "動物園站",
+        "UpdateTime": "2019-05-07T21:00:56"
+      }
+    ]
+  }
